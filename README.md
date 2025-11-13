@@ -21,7 +21,7 @@ Hi there 👋 I go by Andrew. Typical social media username is *Shinbatsu*.
 5. Step by step fast typing comprehensive [guide](https://github.com/shinbatsu/typing).
 
 <details>
-  <summary> <h2>Tools</h2> </summary>
+  <summary> <h2> Known Tools</h2> </summary>
   
 ### Front
 <div>
@@ -182,7 +182,7 @@ Hi there 👋 I go by Andrew. Typical social media username is *Shinbatsu*.
     <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-0D1117?style=flat-square&logo=github-actions&logoColor=2088FF" />
   </a>
   <a href="https://gitlab.com/">
-    <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-0D1117?style=flat-square&logo=gitlab&logoColor=FC6D26" />
+    <img alt="GitLab" src="https://img.shields.io/badge/-GitLab_CI-0D1117?style=flat-square&logo=gitlab&logoColor=FC6D26" />
   </a>
 </div>
 
