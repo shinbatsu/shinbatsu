@@ -2,6 +2,7 @@
 
 Hi there 👋 I go by Andrew. Typical social media username is *Shinbatsu*.
 
+👨‍🎓 Final-year BMSTU student. 🥺 Unfortunately, I ended up in IT because I didn’t get into art school — sounds familiar? Sometimes I just want to stop filling out text documents, quit everything, and start sculpting all kinds of waifu figures in ZBrush 🥴.
 
 ### Working with
 
