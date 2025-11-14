@@ -16,7 +16,7 @@ Hi there 👋 I go by Andrew. Typical social media username is *Shinbatsu*.
 ### Funny projects
 
 1. List of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) programs is [here](https://github.com/shinbatsu/Brainfuck).
-2. [Regex translator](https://en.wikipedia.org/wiki/Kleene%27s_algorithm), based on [Kleene's theorem](https://en.wikipedia.org/wiki/Kleene%27s_algorithm).
+2. [Regex translator](https://github.com/shinbatsu/kleene-theorem), based on [Kleene's theorem](https://en.wikipedia.org/wiki/Kleene%27s_algorithm).
 3. Advanced [MASM interpreter](https://github.com/shinbatsu/asm-Interpreter) with all supported instructions.
 4. [Signature scanner](https://github.com/shinbatsu/signature-scanner) based on block control sum checking.
 5. Step by step fast typing comprehensive [guide](https://github.com/shinbatsu/typing).
