@@ -6,11 +6,11 @@ Hi there 👋 I go by Andrew. Typical social media username is *Shinbatsu*.
 
 ### Working with
 
-1. Non-officially supporting some Ocaml debian packages. [oasis](https://packages.debian.org/bullseye/oasis), [libcairo-ocaml](https://packages.debian.org/bullseye/libcairo-ocaml).
-2. Reversing old PS1 games for education purpose only. I'm using Ida Pro btw!
-3. Writing some articles about function programming, type theories and dependant type systems. You can find it [here](#)
-4. Improvement typing skill through [Monkeytype](https://monkeytype.com).
-5. Codegolfing with JavaScript and Python because it looks really mind-blowing!
+1. Non-officially supporting some OCaml Debian packages: [oasis](https://packages.debian.org/bullseye/oasis), [libcairo-ocaml](https://packages.debian.org/bullseye/libcairo-ocaml).
+2. Reversing old PS1 games for educational purposes only. I'm using IDA Pro, btw!
+3. Writing some articles about functional programming, type theory, and dependent type systems. You can find them [here](#)
+4. Improving my typing skills through [Monkeytype](https://monkeytype.com).
+5. Code-golfing with JavaScript and Python because it looks really mind-blowing!
 
 
 ### Funny projects
