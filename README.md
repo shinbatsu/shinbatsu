@@ -32,9 +32,6 @@ Hi there 👋 I go by Andrew. Typical social media username is *Shinbatsu*.
   <a href="https://vuejs.org/">
     <img alt="Vue" src="https://img.shields.io/badge/-Vue-0D1117?style=flat-square&logo=vue.js&logoColor=4FC08D" />
   </a>
-  <a href="https://nuxt.com/">
-    <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-0D1117?style=flat-square&logo=nuxt&logoColor=00C58E" />
-  </a>
   <a href="https://redux.js.org/">
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-0D1117?style=flat-square&logo=redux&logoColor=764ABC" />
   </a>
@@ -81,6 +78,9 @@ Hi there 👋 I go by Andrew. Typical social media username is *Shinbatsu*.
   </a>
   <a href="https://nestjs.com/">
     <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-0D1117?style=flat-square&logo=nestjs&logoColor=E0234E" />
+  </a>
+  <a href="https://nuxt.com/">
+    <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-0D1117?style=flat-square&logo=nuxt&logoColor=00C58E" />
   </a>
   <a href="https://fastapi.tiangolo.com/">
     <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" />
@@ -164,8 +164,8 @@ Hi there 👋 I go by Andrew. Typical social media username is *Shinbatsu*.
   <a href="https://www.elastic.co/elasticsearch/">
     <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-0D1117?style=flat-square&logo=elasticsearch&logoColor=005571" />
   </a>
-  <a href="https://www.elastic.co/logstash/">
-    <img alt="Logstash" src="https://img.shields.io/badge/-Logstash-0D1117?style=flat-square&logo=logstash&logoColor=005571" />
+  <a href="https://prometheus.io">
+    <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-0D1117?style=flat-square&logo=prometheus&logoColor=E6522C" />
   </a>
   <a href="https://www.elastic.co/kibana/">
     <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-0D1117?style=flat-square&logo=kibana&logoColor=005571" />
@@ -190,6 +190,12 @@ Hi there 👋 I go by Andrew. Typical social media username is *Shinbatsu*.
 <div>
   <a href="https://kafka.apache.org/">
     <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-0D1117?style=flat-square&logo=apache-kafka&logoColor=231F20" />
+  </a>
+  <a href="https://developer.hashicorp.com/vault">
+    <img alt="Vault" src="https://img.shields.io/badge/-Vault-0D1117?style=flat-square&logo=vault&logoColor=FFDD04" />
+  </a>
+  <a href="https://developer.hashicorp.com/consul">
+    <img alt="Consul" src="https://img.shields.io/badge/-Consul-0D1117?style=flat-square&logo=consul&logoColor=E24880" />
   </a>
 </div>
 
@@ -257,7 +263,7 @@ Hi there 👋 I go by Andrew. Typical social media username is *Shinbatsu*.
     <img src="https://github-stats-2b2r.vercel.app/api?username=shinbatsu&theme=dark&layout=compact&hide_border=true&include_all_commits=true&show_icons=true&show=followers&count_private=true" />
   </a>
   <a href="https://github.com/shinbatsu">
-    <img src="https://github-stats-2b2r.vercel.app/api/top-langs/?username=shinbatsu&langs_count=8&layout=compact&hide_border=true&theme=dark&hide=css,html" />
+    <img src="https://github-stats-2b2r.vercel.app/api/top-langs/?username=shinbatsu&langs_count=8&layout=compact&hide_border=true&theme=dark&hide=css,html,scss,pascal" />
   </a>
 </div>
 
