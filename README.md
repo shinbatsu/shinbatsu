@@ -260,10 +260,10 @@ Hi! 👋 I go by Andrew. Typical social media username is *Shinbatsu*.
 
 <div align="center">
   <a href="https://github.com/shinbatsu">
-    <img src="https://github-stats-2b2r.vercel.app/api?username=shinbatsu&theme=dark&layout=compact&hide_border=true&include_all_commits=true&show_icons=true&show=followers&count_private=true" />
+    <img src="https://github-stats-2b2r.vercel.app/api?username=shinbatsu&theme=dark&layout=compact&hide_border=false&include_all_commits=true&show_icons=true&show=followers&count_private=true" />
   </a>
   <a href="https://github.com/shinbatsu">
-    <img src="https://github-stats-2b2r.vercel.app/api/top-langs/?username=shinbatsu&langs_count=8&layout=compact&hide_border=true&theme=dark&hide=css,html,scss,pascal" />
+    <img src="https://github-stats-2b2r.vercel.app/api/top-langs/?username=shinbatsu&langs_count=8&layout=compact&hide_border=false&theme=dark&hide=css,html,scss,pascal" />
   </a>
 </div>
 
